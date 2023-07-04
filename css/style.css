@@ -10,6 +10,11 @@ img {
     width: 400px;
 }
 
+#stacked {
+    display: flex;
+    flex-direction: column;
+}
+
 html {
     height: 100%;
     margin: 0;
